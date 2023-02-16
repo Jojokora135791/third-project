@@ -1,0 +1,11 @@
+.table {
+  /* Позиционирование */
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+
+  /* Размеры и отступы */
+  width: 1100px;
+  margin: auto;
+}

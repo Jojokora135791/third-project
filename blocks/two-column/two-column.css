@@ -1,0 +1,10 @@
+.two-columns {
+  /* Позиционирование */
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+  /* Размеры и отступы */
+  margin: auto;
+  width: 80%;
+}

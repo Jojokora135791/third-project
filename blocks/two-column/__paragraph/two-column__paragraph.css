@@ -1,0 +1,14 @@
+.two-columns__paragraph {
+  /* Размеры и отступы */
+  margin: 0;
+
+  /* стилевое оформление */
+  font-size: 24px;
+  font-weight: normal;
+  line-height: 34px;
+  margin-bottom: 30px;
+}
+.two-columns__paragraph:last-child {
+  /* Размеры и отступы */
+  margin: 0;
+}

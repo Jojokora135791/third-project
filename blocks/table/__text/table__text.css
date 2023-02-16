@@ -1,0 +1,15 @@
+.table__text {
+  /* Позиционирование */
+  z-index: 2;
+
+  /* Размеры и отступы */
+  margin: 0 0 20px;
+
+  /* стилевое оформление */
+  font-size: 18px;
+  font-weight: normal;
+  line-height: 1.2;
+}
+.table__text:last-child {
+  margin: 0;
+}

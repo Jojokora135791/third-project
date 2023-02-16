@@ -1,0 +1,12 @@
+.feynman__main-illustration {
+  /* Позиционирование */
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  z-index: -1;
+
+  /* Размеры и отступы */
+  width: 867px;
+  height: 637px;
+  background-size: cover;
+}

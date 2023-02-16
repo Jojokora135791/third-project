@@ -1,0 +1,11 @@
+.two-columns__breaf {
+  /* Размеры и отступы */
+  width: 175px;
+  margin: 0;
+
+  /* стилевое оформление */
+  font-size: 18px;
+  font-weight: normal;
+  line-height: 1.2;
+  color: #2f80ed;
+}

@@ -1,0 +1,12 @@
+.table__heading {
+  /* Позиционирование */
+  z-index: 2;
+
+  /* Размеры и отступы */
+  margin: 0 0 20px;
+
+  /* стилевое оформление */
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 1.15;
+}

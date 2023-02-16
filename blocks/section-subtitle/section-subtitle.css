@@ -1,0 +1,11 @@
+.section-subtitle {
+  /* Размеры и отступы */
+  margin: 0 auto;
+  width: 60%;
+
+  /* стилевое оформление */
+  text-align: center;
+  font-size: 24px;
+  font-weight: normal;
+  line-height: 34px;
+}
