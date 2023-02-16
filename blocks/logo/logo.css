@@ -1,0 +1,11 @@
+@import url(./_place_header/logo_place_header.css);
+
+
+.logo {
+    /* Размеры и отступы */
+    width: 228px;
+    height: 32px;
+  
+    /* стилевое оформление */
+    background-image: url(/images/logo_place_header.svg);
+  }

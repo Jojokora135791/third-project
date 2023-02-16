@@ -11,101 +11,7 @@ body {
   /* стилевое оформление */
   font-family: 'Helvetica Neue', Arial, sans-serif;
 }
-.block__background_color_gray {
-  background-color: rgba(194, 194, 194, 0.3);
-  z-index: -99;
-}
 
-/* Правила для тега header */
-/* Правила для тега header */
-/* Правила для тега header */
-.header {
-  /* Позиционирование */
-  display: flex;
-  position: relative;
-  flex-direction: column;
-  justify-content: center;
-
-  /* Размеры и отступы */
-  height: 100vh;
-  min-height: 600px;
-  max-height: 756px;
-}
-.logo {
-  /* Размеры и отступы */
-  width: 228px;
-  height: 32px;
-
-  /* стилевое оформление */
-  background-image: url(../images/logo_place_header.svg);
-}
-.logo_place_header {
-  /* Позиционирование */
-  left: 64px;
-  top: 30px;
-  position: absolute;
-  
-}
-
-.header__title {
-  /* Размеры и отступы */
-  width: 730px;
-
-  /* стилевое оформление */
-  font-size: 102px;
-  font-weight: 600;
-  line-height: 96px;
-}
-
-.header__subtitle {
-  /* Позиционирование */
-  position: absolute;
-  left: 64px;
-  bottom: 30px;
-
-  /* Размеры и отступы */
-  width: 388px;
-
-  /* стилевое оформление */
-  font-size: 18px;
-  font-weight: normal;
-  line-height: 25px;
-}
-.header__link {
-  /* стилевое оформление */
-  color: #2f80ed;
-  text-decoration: none;
-}
-
-.header__main-illustration {
-  /* Позиционирование */
-  position: absolute;
-  right: 0;
-  bottom: 0;
-
-  /* Размеры и отступы */
-  width: 765px;
-  height: 608px;
-  background-size: cover;
-
-}
-.header__square-pic {
-  /* Позиционирование */
-  position: absolute;
-  order: 1;
-  right: 0;
-  top: 64px;
-  z-index: -1;
-
-  /* Размеры и отступы */
-  width: 506px;
-  height: 506px;
-  background-color: #2f80ed;
-}
-
-/* Правила для  секции description */
-/* Правила для  секции description */
-/* Правила для  секции description */
 .description {
   /* Размеры и отступы */
   margin-top: 100px;
@@ -241,6 +147,8 @@ body {
 .feynman {
   /* Позиционирование */
   position: relative;
+  background-color: rgba(194, 194, 194, 0.3);
+  z-index: -2;
 
   /* Размеры и отступы */
   margin-top: 100px;
@@ -430,7 +338,4 @@ body {
   width: 16px;
   height: 16px;
   padding-right: 10px;
-}
-.logo_place_footer {
-  background-image: url(../images/logo_place_footer.svg);
 }

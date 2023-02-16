@@ -1,0 +1,13 @@
+.header__square-pic {
+    /* Позиционирование */
+    position: absolute;
+    order: 1;
+    right: 0;
+    top: 64px;
+    z-index: -1;
+  
+    /* Размеры и отступы */
+    width: 568px;
+    height: 568px;
+    background-color: #2f80ed;
+  }

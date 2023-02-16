@@ -1,0 +1,15 @@
+.header__subtitle {
+    /* Позиционирование */
+    position: absolute;
+    left: 64px;
+    bottom: 30px;
+  
+    /* Размеры и отступы */
+    margin: 0;
+    width: 388px;
+  
+    /* стилевое оформление */
+    font-size: 18px;
+    font-weight: normal;
+    line-height: 25px;
+  }

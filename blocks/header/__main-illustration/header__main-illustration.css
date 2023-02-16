@@ -1,0 +1,11 @@
+.header__main-illustration {
+    /* Позиционирование */
+    position: absolute;
+    right: 0;
+    bottom: 0;
+  
+    /* Размеры и отступы */
+    width: 765px;
+    height: 608px;
+    background-size: cover;
+  }

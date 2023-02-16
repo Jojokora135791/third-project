@@ -1,0 +1,20 @@
+@import url(/vendor/normalize.css);
+@import url(./__title/header__title.css);
+@import url(./__subtitle/header__subtitle.css);
+@import url(./__link/header__link.css);
+@import url(./__main-illustration/header__main-illustration.css);
+@import url(./__square-pic/header__square-pic.css);
+
+.header {
+    /* Позиционирование */
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    justify-content: center;
+    background-color: rgba(194, 194, 194, 0.3);
+    /* Размеры и отступы */
+    height: 100vh;
+    min-height: 600px;
+    max-height: 756px;
+    z-index: -2;
+  }

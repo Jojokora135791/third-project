@@ -1,0 +1,10 @@
+.header__title {
+    /* Размеры и отступы */
+    margin: auto 0 auto 64px;
+    width: 730px;
+  
+    /* стилевое оформление */
+    font-size: 102px;
+    font-weight: 600;
+    line-height: 96px;
+  }
