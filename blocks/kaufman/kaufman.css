@@ -1,0 +1,13 @@
+.kaufman {
+    /* Позиционирование */
+    position: relative;
+    overflow: hidden;
+  
+    /* Размеры и отступы */
+    margin: 0 auto;
+    padding-top: 90px;
+    padding-bottom: 90px;
+  
+    /* стилевое оформление */
+    background-color: rgb(24, 22, 22);
+  }

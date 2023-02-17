@@ -5,7 +5,12 @@
   z-index: -2;
 
   /* Размеры и отступы */
-  margin-top: 100px;
+  margin: 100px auto 0;
   padding-top: 100px;
+  min-width: 1100px;
+  max-width: 1600px;
   min-height: 790px;
+  
+  /* стилевое оформление */
+  font-family: 'Helvetica Neue', Arial, sans-serif;
 }

@@ -1,0 +1,17 @@
+.footer__column-link {
+    /* Позиционирование */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  
+    /* Размеры и отступы */
+    margin: 0;
+    padding-bottom: 10px;
+  
+    /* стилевое оформление */
+    font-size: 18px;
+    font-weight: normal;
+    line-height: 30px;
+    text-decoration: none;
+    color: #fff;
+  }

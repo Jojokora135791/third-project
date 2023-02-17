@@ -1,0 +1,12 @@
+.footer {
+    /* Размеры и отступы */
+    margin: 0 auto;
+    padding: 60px 0 40px;
+    min-width: 1100px;
+    max-width: 1600px;
+    
+    /* стилевое оформление */
+    background-color: rgb(24, 22, 22);
+    color: #fff;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+  }

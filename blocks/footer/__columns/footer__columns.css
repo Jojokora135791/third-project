@@ -1,0 +1,11 @@
+.footer__columns {
+    /* Позиционирование */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+    /* Размеры и отступы */
+    width: 90%;
+    margin: 0 auto;
+    min-height: 250px;
+  }
