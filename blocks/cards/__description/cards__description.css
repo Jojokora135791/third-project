@@ -1,0 +1,13 @@
+.cards__description {
+  /* Позиционирование */
+  z-index: 2;
+
+  /* Размеры и отступы */
+  margin: 16px auto 0;
+
+  /* стилевое оформление */
+  text-align: center;
+  font-size: 18px;
+  font-weight: normal;
+  line-height: 1.2;
+}

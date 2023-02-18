@@ -1,0 +1,14 @@
+.video__iframes {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  transform: translate(0, 60px);
+
+  /* Размеры и отступы */
+  margin: 0 auto;
+  max-width: 1050px;
+  
+  /*Стилевое оформление*/
+  font-size: 0;
+}
