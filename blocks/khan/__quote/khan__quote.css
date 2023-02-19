@@ -1,0 +1,9 @@
+.khan__quote {
+  /* Размеры и отступы */
+  width: 790px;
+  margin: 0 0 36px;
+  /*Стилевое оформление*/
+  font-size: 24px;
+  line-height: 34px;
+  font-weight: normal;
+}

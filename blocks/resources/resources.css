@@ -1,4 +1,4 @@
-.digits {
+    .resources {
     /* Позиционирование */
     display: block;
     /* Размеры и отступы */
@@ -7,4 +7,4 @@
     max-width: 1600px;  
     /* стилевое оформление */
     font-family: 'Helvetica Neue', Arial, sans-serif;
-  }
+    }

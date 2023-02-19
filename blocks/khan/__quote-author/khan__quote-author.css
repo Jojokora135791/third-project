@@ -1,0 +1,8 @@
+.khan__quote-author {
+  /* Размеры и отступы */
+  margin: 0 0 10px;
+  /*Стилевое оформление*/
+  font-size: 24px;
+  line-height: 1.15;
+  font-weight: 600;
+}
