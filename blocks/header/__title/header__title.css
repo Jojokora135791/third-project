@@ -1,4 +1,6 @@
 .header__title {
+  /* Позиционирование */
+  z-index: 2;
     /* Размеры и отступы */
     margin: auto 0 auto 64px;
     width: 730px;

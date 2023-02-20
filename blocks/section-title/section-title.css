@@ -1,4 +1,6 @@
 .section-title {
+  /*Позиционирование*/
+  z-index: 2;
   /* Размеры и отступы */
   margin: 0 auto;
   width: 60%;

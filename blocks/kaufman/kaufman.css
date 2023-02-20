@@ -2,6 +2,7 @@
     /* Позиционирование */
     position: relative;
     overflow: hidden;
+    z-index: -2;
   
     /* Размеры и отступы */
     margin: 0 auto;
