@@ -3,6 +3,7 @@
     text-decoration: none;
     color: #2f80ed;
     transition: opacity 0.5s;
+    cursor: pointer;
   }
   .header__link:hover {
     opacity: 0.5;
